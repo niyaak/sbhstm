@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/Documents/Oneject BCT/stm/SBH_STM/build/Debug/cmake_install.cmake",
+		"D:/Documents/Oneject BCT/stm/SBH_STM/build/Debug/cmake/stm32cubemx/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
